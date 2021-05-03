@@ -5,7 +5,7 @@
 관동 - Python or Java
 혜리 - C
 정욱 - C#
-서연 - 정보보안기사..? 
+서연 - 정보보안기사..? 연락바랍니다.
 
 주말에 무조건 풀기 
 
@@ -21,3 +21,4 @@
  
 - 문제 
 1. https://www.acmicpc.net/problem/14725 - 04/30
+2. https://www.acmicpc.net/problem/2798 -05/03

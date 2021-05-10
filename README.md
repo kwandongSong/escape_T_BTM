@@ -5,7 +5,7 @@
 관동 - Python or Java
 혜리 - C
 정욱 - C#
-서연 - 정보보안기사..? 연락바랍니다.
+서연 - Java
 
 주말에 무조건 풀기 
 
@@ -15,10 +15,9 @@
 - 다풀었을때도 한번 보고 이런방법도 있구나 피드백.
 - 못푸는건 당연. 안은 뒤진다잉 
 
-서연 맨 - 3 section 풀어서 검사맡기
-
 ★페널티 - 지연 이슈 오너빵 1개,  ※터무니 없는 연관이 없는 이슈 전달은 x★
  
 - 문제 
 1. https://www.acmicpc.net/problem/14725 - 04/30
 2. https://www.acmicpc.net/problem/2798 -05/03
+3. https://www.acmicpc.net/problem/1436 -05/10

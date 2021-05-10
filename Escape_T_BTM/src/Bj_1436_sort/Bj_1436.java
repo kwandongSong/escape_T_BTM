@@ -36,16 +36,16 @@ public class Bj_1436 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n_th = Integer.parseInt(br.readLine());
 		
-		int End_num = 666;
+		int result = 666;
 		int cnt = 1;
 		
 		while(cnt != n_th) {
-			End_num ++;
-			if (Integer.toString(End_num).contains("666")) {
+			result ++;
+			if (Integer.toString(result).contains("666")) {
 				cnt++;
 			}
 		}
 		
-		System.out.println(End_num);
+		System.out.println(result);
 	}
 }
